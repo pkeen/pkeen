@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pkeen
-- 👀 I’m interested in programming for music and art, but also some web dev. 
-- 🌱 I’m currently learning web dev, p5.js, Max
+- 👀 I’m interested in web development but also musical and artistic programming
+- 🌱 I’m currently learning React, Material, Express
 - 💞️ I’m looking to collaborate on interesting musical or artistic projects
 - 📫 How to reach me pkeen7@gmail.com
 
