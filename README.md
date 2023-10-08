@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pkeen
+- 👋 Hi, I’m Stephen
 - 👀 My bread and butter is working with node.js, and building full-stack web applications
 - 🌱 I’m currently learning AI: LangChain, TensorFlow and Mathematics
 - 💞️ Hit me up if you would like to chat or colloborate on a project
