@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pete
-- 👀 My bread and butter is working with next.js or express to build applications
+- 👀 I build apps with react-router, nextjs and express
 - 🌱 I’m currently also working on AI integrated application and automations in edge and serverless environments
 - 💞️ Hit me up if you would like to chat or colloborate on a project
 - 📫 How to reach me [https://www.linkedin.com/in/stephen-keen/](url)
